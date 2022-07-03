@@ -11,19 +11,19 @@ global.thum = fs.readFileSync("./plugins/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./plugins/media/image/thumb.jpg")
 global.err4r = fs.readFileSync("./plugins/media/image/thumb.jpg")
 global.locimg = fs.readFileSync("./plugins/media/image/loc.jpg")
-global.owner = ['6283834558105', '6285789004732']
-global.numberOwner = "6283834558105"
-global.group = "https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG"
+global.owner = ['6288223674569', '6288223674569']
+global.numberOwner = "6288223674569"
+global.group = "https://chat.whatsapp.com/JoPtKCavUfU2991LAXIRyS"
 global.rkyt = []
 global.banUser = ['6281366679021@s.whatsapp.net']
 global.ntilink = ['120363043965529911@g.us','120363022988111568@g.us']
 global.wlcm = ['120363043965529911@g.us','120363023112413670@g.us','19054091487-1424650263@g.us','120363022988111568@g.us']
 global.gcrevoke = ['19054091487-1424650263@g.us']
-global.packname = "Neoxy Bot"
-global.author = "Lexxy Official"
+global.packname = "Cylen Bot"
+global.author = "Dika Official"
 global.sessionName = "session"
-global.footer = "© Created By Lexxy Official"
-global.linkgrupss = "https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG"
+global.footer = "© Created By Dika Official"
+global.linkgrupss = "https://chat.whatsapp.com/JoPtKCavUfU2991LAXIRyS"
 global.antitags = true
 global.txtSewabot = "1-Minggu : Rp5.000\n2-Minggu : Rp.10.000\n1-Bulan : Rp.20.000\n2-Bulan : Rp.30.000\n3-Bulan : Rp40.000"
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -50,4 +50,4 @@ fs.watchFile(file, () => {
 	console.log(chalk.redBright(`Update'${__filename}'`))
 	delete require.cache[file]
 	require(file)
-})
+}
