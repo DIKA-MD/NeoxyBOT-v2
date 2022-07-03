@@ -53,4 +53,4 @@ Click the deploy icon below !
 - [Group Bot Wa 2](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG)
 - [Group Bot Wa 3](https://chat.whatsapp.com/EDYV3OK6wHaDAb6J1iMnUa)
 - [YouTube ](https://youtube.com/channel/UCGDk88W54RJOgk6b1p42NVg)
-- [Whatsapp ](https://wa.me/6283834558105)
+- [Whatsapp ](https://wa.me/6288223674569)
