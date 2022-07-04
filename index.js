@@ -97,7 +97,7 @@ let buttons = [
 let buttonMessage = {
 image: await getBuffer(ppuser), 
 caption: mbc,
-footer: "© DEFFBOTZ - BY - DEFF",
+footer: "© Cylen-MD | DikaOFC",
 mentions:[orgnye],
 buttons: buttons,
 headerType: 4,
